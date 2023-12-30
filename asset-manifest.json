@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Adventure-Outdoor/static/css/main.e1d42bc6.css",
+    "main.js": "/Adventure-Outdoor/static/js/main.9d0ad8dc.js",
+    "static/js/787.ca58d920.chunk.js": "/Adventure-Outdoor/static/js/787.ca58d920.chunk.js",
+    "static/media/home_background-1.png": "/Adventure-Outdoor/static/media/home_background-1.086fcd8b0d7efd6b2250.png",
+    "static/media/home_background-2.png": "/Adventure-Outdoor/static/media/home_background-2.5b98aca2968fdf722a49.png",
+    "static/media/tourgrid.png": "/Adventure-Outdoor/static/media/tourgrid.21a12bebf315e4735a3a.png",
+    "static/media/login_background.png": "/Adventure-Outdoor/static/media/login_background.0861299c5c7c525ee14f.png",
+    "static/media/shape-1.png": "/Adventure-Outdoor/static/media/shape-1.88369a902f87c2959294.png",
+    "index.html": "/Adventure-Outdoor/index.html",
+    "main.e1d42bc6.css.map": "/Adventure-Outdoor/static/css/main.e1d42bc6.css.map",
+    "main.9d0ad8dc.js.map": "/Adventure-Outdoor/static/js/main.9d0ad8dc.js.map",
+    "787.ca58d920.chunk.js.map": "/Adventure-Outdoor/static/js/787.ca58d920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d42bc6.css",
+    "static/js/main.9d0ad8dc.js"
+  ]
+}
