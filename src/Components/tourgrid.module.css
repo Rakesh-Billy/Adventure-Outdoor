@@ -1,0 +1,71 @@
+
+*{
+    margin: 0px;
+
+}.main1{
+    position: relative;
+    background-image: url(C:\Users\RAKESH\Documents\Module 1 Project\adventure_outdoor\public\Images\tourgrid.png);
+    /* background-image: url(shape-1.png); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+
+}
+
+.main1 {
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+
+  .main{
+    padding-top: 20px;
+  }
+
+  .main2 h1{
+    font-size: x-large;
+      display: inline-block;
+      color: #102a53;
+    }
+    .main2 h2{
+    display: block;
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 700;
+      margin-bottom: 22px;
+      color: #228b22;
+    }
+    .main2 p1{
+      font-size: 20px;
+      line-height: 28px;
+      font-weight: 700;
+      margin-bottom: 22px;
+      color: #228b22;
+    }
+    
+  .main2 li {
+    position: relative;
+    float: left;
+    display: inline-block;
+    font-size: 15px;
+    color: #808080;
+    font-weight: 500;
+    padding-left: 24px;
+    width: 100%;
+  }
+  
+  .main2 .info {
+    position: relative;
+    display: block;
+    background: #f5f7f8;
+    padding: 10px 10px 9px 14px;
+    border-radius: 5px;
+    margin-bottom: 22px;
+  }
+  .main2 .card{
+    margin: 20px auto;
+  
+  }

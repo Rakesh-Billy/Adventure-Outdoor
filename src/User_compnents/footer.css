@@ -1,0 +1,44 @@
+/* ****Footer**** */
+.footer {
+    margin: 0px;
+    padding: 10px;
+    background-color: #54bce4;
+    color: white;
+  }
+  .footer h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #061a3a;
+  }
+  .footer p {
+    font-size: 13px;
+  }
+  .d1 {
+    margin: 20px;
+    padding: 20px;
+    /* display: flex;
+    justify-content: center;
+    align-content: center; */
+  }
+  .f1 img{
+    height: 185px;
+    
+    
+    
+
+  }
+  .footecont img{
+    height: 100px;
+
+  }
+  .footecont{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+  }
+  .f1 h1 p {
+    margin: 20px auto;
+  }
+  
+/* ****Footer End**** */

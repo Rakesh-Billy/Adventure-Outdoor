@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+  }
+  .cont {
+    background-image: url(C:\Users\RAKESH\Documents\Module 1 Project\adventure_outdoor\public\Images\login_background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    width: 100%;
+    /* background: #e7272d; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+  
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  
+  
+  .form {
+    background-color: #ffffff;
+    
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #1b1b1b;
+    text-align: left;
+    align-items: flex-start;
+    width: 400px; 
+    
+  }
+  
+  .form h2 {
+    color: #54bce4;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .grp {
+    margin-bottom: 15px;
+  }
+  
+  .grp label {
+    display: block;
+    font-weight: bold;
+    color: #061a3a;
+    margin-bottom: 10px;
+  }
+  
+  .grp input {
+    background-color: #f3f3f3;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  
+  .checkbox{
+    margin-bottom: 15px;
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: ;
+    align-items: ; */
+  }
+  
+  .checkbox label {
+    color: #061a3a;
+    
+    height: 20px;
+  }
+  .checkbox a{
+    margin-left: 90px;
+    text-decoration: dashed;
+  }
+  /* .a{
+    text-decoration: dashed;
+  } */
+  
+  .cont button {
+    background-color: #54bce4;
+    color: white;
+    width: 100%;
+    font-size: 17px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .cont button:hover {
+    background-color: #228b22;
+  }
+  
+  /* End of styles.css */
+  

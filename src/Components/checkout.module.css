@@ -1,0 +1,98 @@
+
+   
+   *{
+    margin: 0;
+    font-family: 'myfont'- sans-serif;
+  }
+  .container {
+    background-image: url(C:\Users\RAKESH\Documents\Module 1 Project\adventure_outdoor\public\Images\home_background-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    width: 100%;
+    /* background: #e7272d; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+  
+  }
+ 
+  
+
+ 
+  
+  
+  
+  .form_container {
+    background-color: #ffffff;
+    
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px #1b1b1b;
+    text-align: left;
+    align-items: flex-start;
+    width: 400px; 
+    
+  }
+  
+  .form_container h2 {
+    color: #54bce4;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .form_group {
+    margin-bottom: 15px;
+  }
+  
+  .form_group label {
+    display: block;
+    font-weight: bold;
+    color: #061a3a;
+    margin-bottom: 10px;
+  }
+  
+  .form_group input {
+    background-color: #f3f3f3;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+  
+  .amount {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: ;
+    align-items: ; */
+  }
+  
+ 
+
+ 
+  
+  .container button {
+    background-color: #54bce4;
+    color: white;
+    width: 100%;
+    font-size: 17px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #228b22;
+  }
+  
+  /* End of styles.css */
+  

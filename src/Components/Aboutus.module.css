@@ -1,0 +1,14 @@
+.cont{
+    background-image: url(C:\Users\RAKESH\Documents\Module 1 Project\adventure_outdoor\public\Images\home_background-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    width: 100%;
+    /* background: #e7272d; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
