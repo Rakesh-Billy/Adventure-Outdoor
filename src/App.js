@@ -48,7 +48,7 @@ function App() {
    <>
    
    <Routes>
-    <Route exact path='/' element={<><Navbar/><Home/></>} />
+    <Route exact path='Adventure-Outdoor/' element={<><Navbar/><Home/></>} />
    <Route exact path='/login' element={<><Navbar/><Login/></>} />
     <Route exact path='/signup' element={<><Navbar/><Signup/></> } /> 
     <Route exact path='/tours' element={<><Navbar/><Tourgrid/></> } /> 
